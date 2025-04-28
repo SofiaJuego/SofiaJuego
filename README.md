@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido!;Mi+nombre+es+Sofi👋;Soy+desarrolladora+Backend)](https://git.io/typing-svg)
 
 # 💫 Acerca de mi:
-
 Soy una desarrolladora Backend versátil con más de 2 años de experiencia. Mi camino comenzó en el desarrollo móvil, donde realicé mi primer proyecto freelance. Esa experiencia me abrió las puertas a un universo de posibilidades y, tras capacitarme en desarrollo web, descubrí que me apasionaba el detrás de escena.
 Actualmente, estoy enfocada en especializarme en backend, combinando mi formación académica cursando el segundo año de la Tecnicatura en Desarrollo de Software y capacitándome en cursos de nivel avanzado para seguir potenciando mi crecimiento en el mundo tech.
 
@@ -23,7 +22,7 @@ Actualmente, estoy enfocada en especializarme en backend, combinando mi formaci�
     </picture>
 </div>
 
-## Projects
+## Proyectos
 <a href="https://github.com/SofiaJuego/OffiSpace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiaJuego&repo=OffiSpace&theme=tokyonight&hide_border=true&show_owner=true"width="400"/>
 </a>
