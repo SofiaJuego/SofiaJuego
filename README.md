@@ -6,7 +6,7 @@ Actualmente, estoy enfocada en especializarme en backend, combinando mi formaci�
 
 🔭 **Actualmente estoy trabajando en:**<br>En sacarle el maximo provecho a Spring Security para hacer un desarrollo mas seguro<br><br>👯 **Busco colaborar en:**<br>Proyectos fullstack/frontend/backend<br><br>🌱 **Actualmente estoy aprendiendo:** <br>Go y SQL<br>
  
- 📫 **¿Te gustaría saber más sobre mí o charlar sobre proyectos? Podés contactarme por** [LinkedIn](www.linkedin.com/in/sofia-aguilar-developer)
+ 📫 **¿Te gustaría saber más sobre mí o charlar sobre proyectos? Podés contactarme por** [LinkedIn](https://www.linkedin.com/in/sofia-aguilar-developer/)
 
  ## 🛠 Tecnologías 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
