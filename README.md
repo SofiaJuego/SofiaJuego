@@ -11,8 +11,9 @@ Actualmente, estoy enfocada en especializarme en backend, combinando mi formaci�
  ## 🛠 Tecnologías 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript)
-![JavaScript](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
   <div align="center">
     <picture align="center">
