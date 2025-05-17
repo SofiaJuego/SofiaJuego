@@ -9,11 +9,11 @@ Actualmente, estoy enfocada en especializarme en backend, combinando mi formaci�
  📫 **¿Te gustaría saber más sobre mí o charlar sobre proyectos? Podés contactarme por** [LinkedIn](https://www.linkedin.com/in/sofia-aguilar-developer/)
 
  ## 🛠 Tecnologías 
-![Java](https://img.shields.io/badge/-Java-4d77eb?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Springboot)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Java](https://img.shields.io/badge/java-4d77eb.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-9c31e9.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![SpringBoot](https://img.shields.io/badge/springboot-6bad3d.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-ebe84c.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/react-636465.svg?style=for-the-badge&logo=react&logoColor=3194f1)&nbsp;
 
   <div align="center">
     <picture align="center">
