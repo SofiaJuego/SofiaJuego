@@ -9,7 +9,7 @@ Actualmente, estoy enfocada en especializarme en backend, combinando mi formaci�
  📫 **¿Te gustaría saber más sobre mí o charlar sobre proyectos? Podés contactarme por** [LinkedIn](https://www.linkedin.com/in/sofia-aguilar-developer/)
 
  ## 🛠 Tecnologías 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-4d77eb?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript)
