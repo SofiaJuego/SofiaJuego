@@ -4,7 +4,7 @@
 Soy una desarrolladora Backend versátil con más de 2 años de experiencia. Mi camino comenzó en el desarrollo móvil, donde realicé mi primer proyecto freelance. Esa experiencia me abrió las puertas a un universo de posibilidades y, tras capacitarme en desarrollo web, descubrí que me apasionaba el detrás de escena.
 Actualmente, estoy enfocada en especializarme en backend, combinando mi formación académica cursando el segundo año de la Tecnicatura en Desarrollo de Software y capacitándome en cursos de nivel avanzado para seguir potenciando mi crecimiento en el mundo tech.
 
-🔭 **Actualmente estoy trabajando en:**<br>En sacarle el maximo provecho a Spring Security para hacer un desarrollo mas seguro<br><br>👯 **Busco colaborar en:**<br>Proyectos fullstack/frontend/backend<br><br>🌱 **Actualmente estoy aprendiendo:** <br>Go y SQL<br>
+🔭 **Actualmente estoy trabajando en:**<br>En sacarle el maximo provecho a Spring Security para hacer un desarrollo mas seguro<br><br>👯 **Busco colaborar en:**<br>Proyectos fullstack/frontend/backend<br><br>🌱 **Actualmente estoy aprendiendo:** <br>React y SQL<br>
  
  📫 **¿Te gustaría saber más sobre mí o charlar sobre proyectos? Podés contactarme por** [LinkedIn](https://www.linkedin.com/in/sofia-aguilar-developer/)
 
